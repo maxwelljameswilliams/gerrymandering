@@ -1,0 +1,7 @@
+- path: us_house_election_stats
+  name: us_house_election_stats
+  rows: 29636
+  cols: 20
+  description: Historical district level election results for US House of Representatives
+    from MIT Data Lab
+  type: table

@@ -1,0 +1,32 @@
+path:
+- data.csv
+- data.rds
+rows: 29636
+cols: 20
+columns:
+  year: integer
+  state: character
+  state_po: character
+  state_fips: integer
+  state_cen: integer
+  state_ic: integer
+  office: character
+  district: integer
+  stage: character
+  runoff: logical
+  special: logical
+  candidate: character
+  party: character
+  writein: logical
+  mode: character
+  candidatevotes: integer
+  totalvotes: integer
+  unofficial: logical
+  version: numeric
+  fusion_ticket: logical
+description: Historical district level election results for US House of Representatives
+  from MIT Data Lab
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
